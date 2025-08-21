@@ -26,13 +26,13 @@ $(document).ready(function () {
   
     // Typing start
     var typed = new Typed(".typing", {
-        strings: ["estudiante de Ingeniería de Software", "Front End Developer", "C++ Developer", "PHP Developer"],
+        strings: ["diseñador gráfico", "desarrollador web", "diseñador web"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true,
     });
     var typed = new Typed(".typing1", {
-        strings: ["estudiante de Ingeniería de Software", "Front End Developer", "C++ Developer", "PHP Developer"],
+        strings: ["diseñador gráfico", "desarrollador web", "diseñador web"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true,
